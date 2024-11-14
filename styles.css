@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+table,th,td{
+    width: 300px;
+    text-align: center;
+    border: 1px, solid, black;
+    background-color: #FFFF00;
+    padding: 10px;
+}
